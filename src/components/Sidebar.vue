@@ -86,8 +86,9 @@ const computedList = computed({
     padding: 24px;
     border-right: 1px solid #9e9e9e;
 
-    &__filter {
-        width: max-content;
-    }
+}
+
+.sidebar__filter {
+    width: max-content;
 }
 </style>
